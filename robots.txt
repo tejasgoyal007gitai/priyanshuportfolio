@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priyanshu-agarwal-ten.vercel.app/sitemap.xml
